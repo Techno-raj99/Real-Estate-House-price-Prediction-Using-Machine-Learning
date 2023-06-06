@@ -1,0 +1,27 @@
+
+
+
+
+                   (1.)Decision Tree :
+                                 mean: 4.189504502474483
+    
+                       Standard Deviation :0.848096620323756
+    
+    
+                    (2.) Linear Regression :
+                                      mean :4.221894675406022
+    
+                       Standard Deviation : 0.7520304927151625
+    
+ 
+                     (3.) Randomforest Regression:
+
+
+                     (4.) Mean squared error: 1.1013696996104044e-28
+
+
+                     (5.) Linear Regression: 4.974817324519149e-28
+
+                     (6.) Decision Tree: 0.21050065249607794
+
+                      (7.)Random Forest: 1.2145273634990774
